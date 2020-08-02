@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working as Full Stack Engineer, yet Backend Biased. Passionate about writing efficient code.  
+Working as Full Stack Engineer. Passionate about writing efficient code.  
 
 Here is my Work Stack
 - Laravel
