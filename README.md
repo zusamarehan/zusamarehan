@@ -3,11 +3,13 @@
 Working as Full Stack Engineer. Passionate about writing efficient code.  
 
 Here is my Work Stack
-- Laravel
-- Vue.js
+- PHP | Laravel
+- Go
+- Javascript | Vue.js | Alpinejs
 - Laravel Livewire
-- Tailwind CSS
-- Alpinejs
+- CSS | Tailwind CSS | Bootstrap
+- MySQL | Postgres | Redis
+- AWS | Linode
 
 ⚡ Fun fact: Backend Biased
 
