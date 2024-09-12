@@ -11,6 +11,6 @@ Here is my Work Stack
 - MySQL | Postgres | Redis
 - AWS | Linode
 
-⚡ Fun fact: Backend Biased
+⚡ Fun fact: Backend Biased  
 📍 Toronto, Ontario, Canada
 
