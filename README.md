@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working as Full Stack Engineer. Passionate about writing efficient code.  
+A Full Stack Web Developer with a broad set of skills with an In-depth understanding of Web technologies. Having a progressive 7+ years of experience in various front-end as well as back-end technologies, performing well in high-pressure, competitive environments.
 
 Here is my Work Stack
 - PHP | Laravel
