@@ -12,4 +12,5 @@ Here is my Work Stack
 - AWS | Linode
 
 ⚡ Fun fact: Backend Biased
+📍 Toronto, Ontario, Canada
 
