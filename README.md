@@ -9,7 +9,7 @@ Here is my Work Stack
 - Laravel Livewire
 - CSS | Tailwind CSS | Bootstrap
 - MySQL | Postgres | Redis
-- AWS | Linode | Docket
+- AWS | Linode | Docker
 
 ⚡ Fun fact: Backend Biased  
 📍 Montreal, Quebec, Canada
