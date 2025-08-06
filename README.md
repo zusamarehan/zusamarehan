@@ -12,5 +12,6 @@ Here is my Work Stack
 - AWS | Linode | Docker
 
 ⚡ Fun fact: Can Code with/without AI
+
 📍 Montreal, Quebec, Canada
 
